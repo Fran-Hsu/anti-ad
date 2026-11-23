@@ -1,2 +1,4 @@
 mobile01.com##.fancybox-container.is-inlineBlock
 mobile01.com#$#body.fancybox-active { overflow: auto !important; }
+||ads.raidrive.com^
+||ad.raidrive.com^
